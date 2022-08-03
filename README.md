@@ -12,7 +12,7 @@ The following table shows the summary of ride-share data based on city type. Urb
 
 The multiple-line chart of weekly fares by city type show a similar story - urban cities see the largest total amount of fares, while rural cities see the lowest. All three city types show a spike in total fares at the end of February, while all cities had their lowest fare totals at the beginning of January. Suburban cities are showing a sharp increase in total fares at the end of the graph, nearing May. 
 
-[analysis/Pyber_fare_summary.png](https://github.com/noorsami12/Pyber_Analysis/blob/8b09c13f64f7f21eaf0fe484adf04b77a0ed8baf/analysis/Pyber_fare_summary.png)
+![analysis/Pyber_fare_summary.png](https://github.com/noorsami12/Pyber_Analysis/blob/8b09c13f64f7f21eaf0fe484adf04b77a0ed8baf/analysis/Pyber_fare_summary.png)
 
 ## Summary
 
